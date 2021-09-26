@@ -1,0 +1,68 @@
+# Data Format:
+
+# Enzyme name
+# list of pathway
+# explanation
+# EC number
+
+hexokinase
+glycolysis
+phosphorylates hexoses (six-carbon sugars), forming hexose phosphate.
+2.7.1.1
+
+phosphoglucose isomerase
+glycolysis
+interconverts glucose-6-phosphate (G6P) and fructose-6-phosphate (F6P).
+5.3.1.9
+
+phosphofructokinase
+glycolysis
+phosphorylates fructose 6-phosphate.
+2.7.1.11
+
+aldolase
+glycolysis
+catalyzes a reversible reaction that splits the aldol, fructose 1,6-bisphosphate, into the triose phosphates dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate (G3P).
+4.1.2.13
+
+Citrate synthase
+citric acid cycle
+catalyze the conversion of acetyl-CoA [H3CC(=O)−SCoA] and oxaloacetate [−O2CCH2C(=O)CO2−] into citrate [−O2CCH2C(OH)(CO2−)CH2CO2−] and H−SCoA in an aldol condensation reaction.
+2.3.3.1
+
+Aconitase
+citric acid cycle
+enzyme that catalyses the stereo-specific isomerization of citrate to isocitrate via cis-aconitate in the tricarboxylic acid cycle, a non-redox-active process
+4.2.1.3
+
+Isocitrate dehydrogenase
+citric acid cycle
+catalyzes the oxidative decarboxylation of isocitrate, producing alpha-ketoglutarate (α-ketoglutarate) and CO2.
+1.1.1.42
+
+Fumarase
+citric acid cycle
+catalyzes the reversible hydration/dehydration of fumarate to malate.
+4.2.1.2
+
+G6PD
+pentose phosphate
+catalyzes the chemical reaction: D-glucose 6-phosphate + NADP+ + H2O ⇌ 6-phospho-D-glucono-1,5-lactone + NADPH + H+
+2.3.3.1
+
+6PGD
+pentose phosphate
+forms ribulose 5-phosphate from 6-phosphogluconate.
+1.1.1.44
+
+Gluconolactonase
+pentose phosphate
+This enzyme belongs to the family of hydrolases, specifically those acting on carboxylic ester bonds. 
+3.1.1.17
+
+Transaldolase
+pentose phosphate
+transaldolase:catalyzes the following reaction sedoheptulose 7-phosphate + glyceraldehyde 3-phosphate erythrose 4-phosphate + fructose 6-phosphate.
+2.2.1.2
+
+

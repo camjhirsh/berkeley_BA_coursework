@@ -1,0 +1,14 @@
+Data Format:
+
+# Pathway name
+# description
+
+Glycolysis
+Linear metabolic pathway of enzyme-catalyzed reactions that convert glucose into two molecules of pyruvate in the presence of oxygen or into two molecules of lactate in the absence of oxygen.
+
+Citric Acid Cycle (TCA, Krebs)
+Series of chemical reactions to release stored energy through the oxidation of acetyl-CoA derived from carbohydrates, fats, and proteins
+
+Pentose Phosphate
+Parallel to glycolysis. It generates NADPH and pentoses as well as ribose 5-phosphate, a precursor for the synthesis of nucleotides. While the pentose phosphate pathway does involve oxidation of glucose, its primary role is anabolic rather than catabolic. 
+
